@@ -24,7 +24,7 @@ This decentralized lottery project is built on the Polygon blockchain, using Sol
 
 **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Decentralized-Lottery.git
+   git clone https://github.com/jasrajput/Decentralized-Lottery.git
    ```
 
 ## Usage
